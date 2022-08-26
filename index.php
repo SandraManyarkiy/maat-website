@@ -87,7 +87,7 @@
       <section class="text-center overflow-hidden py-0" id="top" data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
         <!-- <div class="bg-holder overlay overlay-2 parallax" style="background-image:url(../assets/img/headers/header-11.jpg);" data-rellax-percentage="0.5"> -->
-        <div class="bg-holder overlay overlay-2 parallax" style="background-image:url(../assets/maat/_MG_9700-11JPG.jpg);" data-rellax-percentage="0.5"></div>
+        <div class="bg-holder overlay overlay-2 parallax" style="background-image:url(../assets/maat/_MG_9700-1JPG.jpg);" data-rellax-percentage="0.5"></div>
           
         </div>
         <!--/.bg-holder-->
@@ -131,7 +131,7 @@
           <div class="row align-items-center">
             <div class="col-md-4 text-md-right">
               <h5 class="ls-1 mb-3">we're creative</h5>
-              <p class="mb-0">We are full-service digital marketing agency<br class="d-none d-xl-block" /> in Atlanta, and we’re also one of the top<br class="d-none d-xl-block" />graphic design firms because we<br class="d-none d-xl-block" /> draw to projects that challenge<br class="d-none d-sm-block" /> our creative work.</p>
+              <p class="mb-0">We are an IT Solutions company based<br class="d-none d-xl-block" /> in Nairobi, and we’re also one of the top<br class="d-none d-xl-block" />graphic design firms because we<br class="d-none d-xl-block" /> draw to projects that challenge<br class="d-none d-sm-block" /> our creative work.</p>
             </div>
             <div class="col-md-4 px-lg-4 my-4 my-md-0"><img class="rounded w-100 w-sm-75 w-md-100" src="../assets/maat/_MG_9480-1JPG.jpg" alt="" /></div>
             <div class="col-md-4 text-md-left">
@@ -185,7 +185,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section>
+      <!-- <section>
 
         <div class="container">
           <div class="row text-center mb-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
@@ -274,7 +274,7 @@
         </div>
         <!-- end of .container-->
 
-      </section>
+      </section> -->
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -283,13 +283,13 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section class="py-7 text-center" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+      <!-- <section class="py-7 text-center" data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
         <div class="bg-holder overlay" style="background-image:url(../assets/img/backgrounds/fun-fact.jpg);">
-        </div>
+        </div> -->
         <!--/.bg-holder-->
 
-        <div class="container">
+        <!-- <div class="container">
           <div class="row mb-4">
             <div class="col">
               <div class="overflow-hidden">
@@ -336,10 +336,10 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <!-- end of .container-->
 
-      </section>
+      <!-- </section> -->
       <!-- <section> close ============================-->
       <!-- ============================================-->
 
@@ -847,10 +847,10 @@
                     </div>
                   </div>
                   <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Martin Tarus</a></h6>
-                  <h6 class="ls-0">CEO &amp; Founder</h6>
+                  <h6 class="ls-0">Chief Innovation Officer &amp; Founder</h6>
                 </div>
                 <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4">
-                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/2.jpg" alt="" />
+                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/maat/_MG_9604-1JPG.jpg" alt="" />
                     <div class="hoverbox-content">
                       <div class="d-flex align-items-end justify-content-center h-100">
                         <ul class="list-inline team-item-social-icons">
@@ -859,8 +859,8 @@
                       </div>
                     </div>
                   </div>
-                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Allan Tarus</a></h6>
-                  <h6 class="ls-0">CTO</h6>
+                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Ian Langat</a></h6>
+                  <h6 class="ls-0">Director</h6>
                 </div>
                 <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4">
                   <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/4.jpg" alt="" />
@@ -872,11 +872,11 @@
                       </div>
                     </div>
                   </div>
-                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Ian Lang'at</a></h6>
-                  <h6 class="ls-0">Designer</h6>
+                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Robert Gitata</a></h6>
+                  <h6 class="ls-0">Director</h6>
                 </div>
                 <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4">
-                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/maat/_MG_9604-1JPG.jpg" alt="" />
+                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/maat/_MG_9645-1JPG.jpg" alt="" />
                     <div class="hoverbox-content">
                       <div class="d-flex align-items-end justify-content-center h-100">
                         <ul class="list-inline team-item-social-icons">
@@ -885,38 +885,38 @@
                       </div>
                     </div>
                   </div>
-                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Robert</a></h6>
-                  <h6 class="ls-0">Executive</h6>
+                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Collins Tarus</a></h6>
+                  <h6 class="ls-0">Support</h6>
                 </div>
                 <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4 mb-lg-0">
-                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/maat/_MG_9645-1JPG.jpg" alt="" />
+                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/12.jpg" alt="" />
                     <div class="hoverbox-content">
                       <div class="d-flex align-items-end justify-content-center h-100">
                         <ul class="list-inline team-item-social-icons">
                           <li class="list-inline-item"><a class="text-white" href="#!"><span class="fab fa-twitter" data-fa-transform="grow-3"></span></a></li>
-                          <li class="list-inline-item"><a class="text-white" href="#!"><span class="fab fa-instagram" data-fa-transform="grow-3"></span></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Collins Tarus</a></h6>
-                  <h6 class="ls-0">Developer</h6>
-                </div>
-                <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4 mb-lg-0">
-                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/5.jpg" alt="" />
-                    <div class="hoverbox-content">
-                      <div class="d-flex align-items-end justify-content-center h-100">
-                        <ul class="list-inline team-item-social-icons">
                           <li class="list-inline-item"><a class="text-white" href="#!"><span class="fab fa-instagram" data-fa-transform="grow-3"></span></a></li>
                         </ul>
                       </div>
                     </div>
                   </div>
                   <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Martin Kiplimo</a></h6>
-                  <h6 class="ls-0">Software Engineer</h6>
+                  <h6 class="ls-0">Support</h6>
                 </div>
                 <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4 mb-lg-0">
-                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/maat/_MG_9610-1-cJPG.jpg" alt="" />
+                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/7.jpg" alt="" />
+                    <div class="hoverbox-content">
+                      <div class="d-flex align-items-end justify-content-center h-100">
+                        <ul class="list-inline team-item-social-icons">
+                          <li class="list-inline-item"><a class="text-white" href="#!"><span class="fab fa-instagram" data-fa-transform="grow-3"></span></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Sandra Manyarkiy</a></h6>
+                  <h6 class="ls-0">Software Developer</h6>
+                </div>
+                <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4 mb-lg-0">
+                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/3.jpg" alt="" />
                     <div class="hoverbox-content">
                       <div class="d-flex align-items-end justify-content-center h-100">
                         <ul class="list-inline team-item-social-icons">
@@ -925,11 +925,11 @@
                       </div>
                     </div>
                   </div>
-                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Sandra Manyarkiy</a></h6>
-                  <h6 class="ls-0">Web Designer</h6>
+                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Jeffrey Rotich</a></h6>
+                  <h6 class="ls-0">Accountant</h6>
                 </div>
                 <div class="col-6 col-md-3 col-lg-3 px-2 team-item mb-4 mb-lg-0">
-                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/maat/_MG_9629-1JPG.jpg" alt="" />
+                  <div class="hoverbox w-75 rounded-circle overflow-hidden mx-auto"><img class="img-fluid" src="../assets/img/team/10.jpg" alt="" />
                     <div class="hoverbox-content">
                       <div class="d-flex align-items-end justify-content-center h-100">
                         <ul class="list-inline team-item-social-icons">
@@ -939,8 +939,8 @@
                       </div>
                     </div>
                   </div>
-                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Geoffrey</a></h6>
-                  <h6 class="ls-0">Software Engineer</h6>
+                  <h6 class="font-weight-bold mt-2 mb-1"><a class="text-black" href="#!">Doris Mtae</a></h6>
+                  <h6 class="ls-0">Software Developer</h6>
                 </div>
               </div>
             </div>
@@ -957,7 +957,7 @@
 
       <!-- ============================================-->
       <!-- <section> begin ============================-->
-      <section class="testimonial">
+      <section class="py-5 testimonial">
 
         <div class="bg-holder overlay overlay-0" style="background-image:url(../assets/img/backgrounds/testimonial.jpg);">
         </div>
@@ -1424,6 +1424,20 @@
             </div>
             <div class="col-lg-8">
               <div class="row">
+                <div class="col-md-6 pl-md-4">
+                  <!-- <h5 class="text-white mb-3">FROM THE BLOG</h5>
+                  <ul class="list-unstyled mb-0">
+                    <li class="mb-3"><a class="text-700 hover-color-white" href="../pages/single-post.html"> Testing Working Robots at the Canadian Agency.</a>
+                      <p class="text-900 hover-color-white mb-0">Jan 15, 2019</p>
+                    </li>
+                    <li class="mb-3"><a class="text-700 hover-color-white" href="../pages/single-post.html">How to start your new business with limited budget?</a>
+                      <p class="text-900 hover-color-white mb-0">Jan 15, 2019</p>
+                    </li>
+                    <li class="mb-3"><a class="text-700 hover-color-white" href="../pages/single-post.html">Do we need more Javascript Framework?</a>
+                      <p class="text-900 hover-color-white mb-0">Jan 15, 2019</p>
+                    </li>
+                  </ul> -->
+                </div>
                 <div class="col-6 col-md-3 pl-lg-4 mb-4 mb-lg-0">
                   <h5 class="text-white mb-3">Company</h5>
                   <ul class="list-unstyled mb-0">
@@ -1446,20 +1460,7 @@
                     <!-- <li class="mb-1"><a class="text-700 hover-color-white" href="#!">Agencies</a></li> -->
                   </ul>
                 </div>
-                <!-- <div class="col-md-6 pl-md-4">
-                  <h5 class="text-white mb-3">FROM THE BLOG</h5>
-                  <ul class="list-unstyled mb-0">
-                    <li class="mb-3"><a class="text-700 hover-color-white" href="../pages/single-post.html"> Testing Working Robots at the Canadian Agency.</a>
-                      <p class="text-900 hover-color-white mb-0">Jan 15, 2019</p>
-                    </li>
-                    <li class="mb-3"><a class="text-700 hover-color-white" href="../pages/single-post.html">How to start your new business with limited budget?</a>
-                      <p class="text-900 hover-color-white mb-0">Jan 15, 2019</p>
-                    </li>
-                    <li class="mb-3"><a class="text-700 hover-color-white" href="../pages/single-post.html">Do we need more Javascript Framework?</a>
-                      <p class="text-900 hover-color-white mb-0">Jan 15, 2019</p>
-                    </li>
-                  </ul>
-                </div> -->
+                
               </div>
             </div>
           </div>
@@ -1491,12 +1492,12 @@
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-12 col-md-auto mb-1 mb-md-0">
-            <p class="mb-0">Thank you for creating with Reign &copy; 2019<span class="mx-2">|</span><span class="text-900 hover-color-white">
-                <!--v4.0.1-->v4.0.2</span></p>
+            <p class="mb-0">MAAT &copy; 2022<span class="mx-2"></span><span class="text-900 hover-color-white">
+                <!-- v4.0.1v4.0.2</span></p> -->
           </div>
-          <div class="col-12 col-md-auto">
+          <!-- <div class="col-12 col-md-auto">
             <p class="mb-0">Made with<span class="fas fa-heart mx-2"></span>by <a class="text-800 hover-color-white" href="#!">MAAT</a></p>
-          </div>
+          </div> -->
         </div>
       </div>
       <!-- end of .container-->
